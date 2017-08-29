@@ -3,6 +3,7 @@ body {background-color: green; opacity: .9;}
 h1 {font-family: 'Raleway', sans-serif;}
 
 #email {border: 1px; 
+  background-color: red;
   height: 20px;
   width: 150px;}
 
