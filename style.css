@@ -2,6 +2,10 @@ body {background-color: green; opacity: .9;}
 
 h1 {font-family: 'Raleway', sans-serif;}
 
+#email {border: 1px; 
+  height: 20px;
+  width: 150px;}
+
 #list {font-family: 'Raleway', sans-serif;}
 
 img.homeimages {height: 200px;
