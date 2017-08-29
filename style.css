@@ -1,9 +1,9 @@
-body {background-image: https://wallpapercave.com/wp/wePlTHk.jpg;
+body {background-color: green; opacity: .3;}
 }
 h1 {font-family: 'Raleway', sans-serif;}
 
 
 img.homeimages {height: 300px;
   width: 300px;
-border-radius: 10 px
-padding: 5 px}
+border-radius: 10 px;
+padding: 5 px;}
