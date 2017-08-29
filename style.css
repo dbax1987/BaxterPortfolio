@@ -3,7 +3,9 @@ body {background-color: green; opacity: .9;}
 h1 {font-family: 'Raleway', sans-serif;}
 
 #email {border: solid 1px; 
-  background: red;
+  text-decoration: none;
+  padding: 10px;
+  background: white;
   height: 20px;
   width: 150px;}
 
