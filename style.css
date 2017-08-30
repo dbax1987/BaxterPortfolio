@@ -2,6 +2,20 @@ body {background-color: green; opacity: .9;}
 
 h1 {font-family: 'Raleway', sans-serif;}
 
+
+#navlist {
+    background-color: white;
+    overflow: hidden;}
+
+#navlist a {
+    float: left;
+    display: block;
+    color: green;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-size: 17px;}
+
 .email {border: solid 1px; 
   text-decoration: none;
   color: green;
