@@ -18,20 +18,18 @@
       <p> To contact me, please send me an email using the link below. </p>
 <br/>
 <a class="email" href="mailto:dbax1987@gmail.com">Email David</a>
-        
- <input id="excite" type="button" value="Make it exciting!"    />
       
 <p>Let's make something a little more exciting.</p>
 
-<button onclick="myFunction()">What would you like to make more exciting?</button>
+<button id="exciting" onclick="myFunction()">What would you like to make more exciting?</button>
 
-<p id="demo"></p>
+<p id="return"></p>
 
 <script>
 function myFunction() {
     var excite = prompt("Type whatever you'd like to spice up!", "Maybe your Friday night?");
     if (excite != null) {
-        document.getElementById("demo").innerHTML =
+        document.getElementById("return").innerHTML =
         excite + " is now more exciting!!!! WooHoo!";
     }
 }
