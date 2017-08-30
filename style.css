@@ -3,11 +3,11 @@ body {background-color: green; opacity: .9;}
 h1 {font-family: 'Raleway', sans-serif;}
 
 
-.navlist {
+#home, about, contact {
     background-color: white;
     overflow: hidden;}
 
-.navlist a {
+#home, about, contact a {
     float: left;
     display: block;
     color: green;
@@ -16,7 +16,7 @@ h1 {font-family: 'Raleway', sans-serif;}
     text-decoration: none;
     font-size: 17px;}
 
-.navlist a.active {
+#home, about, contact a.active {
     background-color: white;
   color: red;}
 
