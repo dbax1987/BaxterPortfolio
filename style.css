@@ -18,7 +18,7 @@ h1 {font-family: 'Raleway', sans-serif;}
 
 #navlist a.active {
     background-color: white;
-    color: red;
+  color: red;}
 
 .email {border: solid 1px; 
   text-decoration: none;
