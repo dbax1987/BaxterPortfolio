@@ -1,10 +1,9 @@
-body {background-color: green; opacity: .9;
-position: center;}
+body {background-color: green; opacity: .9;}
 
 h1 {font-family: 'Raleway', sans-serif;}
 
 
-#navlist {
+.navlist {
     background-color: white;
     overflow: hidden;}
 
