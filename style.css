@@ -3,11 +3,11 @@ body {background-color: green; opacity: .9;}
 h1 {font-family: 'Raleway', sans-serif;}
 
 
-#home, about, contact {
+#home #about #contact {
     background-color: white;
     overflow: hidden;}
 
-#home, about, contact a {
+#home #about #contact a {
     float: left;
     display: block;
     color: green;
@@ -16,7 +16,7 @@ h1 {font-family: 'Raleway', sans-serif;}
     text-decoration: none;
     font-size: 17px;}
 
-#home, about, contact a.active {
+#home #about #contact a.active {
     background-color: white;
   color: red;}
 
